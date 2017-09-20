@@ -10,3 +10,4 @@ build.php
 .settings/
 .htaccess
 public/log.txt
+config/online.php
